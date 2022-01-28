@@ -14,7 +14,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=Error404&show_icons=true&theme=gotham" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=Error404m&show_icons=true&theme=gotham" alt="github stats"/>
 
 <a href="https://github.com/Error404m/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmanish03&layout=compact&theme=gotham" /></a>
 
