@@ -1,14 +1,11 @@
 
-### Hi there. I'm Raunak 👋
+### Hi there. I'm BlackCoder👋
 
 <hr />
 
 <p align="center">
 
-<a href="https://www.facebook.com/rishabh.rathaur.52/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.instagram.com/dear_raunak/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.linkedin.com/in/error404r/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="mailto:iit2019222@iiita.ac.in" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+
 
 </p>
 
