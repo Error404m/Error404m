@@ -1,4 +1,4 @@
-### Hi there. I'm BlackCoder👋
+### Hi there👋. I'm BlackCoder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 [![](https://raw.githubusercontent.com/Error404m/Error404m/main/mahadev.gif)](https://mtiwari.in/)
 
 
@@ -10,7 +10,7 @@
 
 </p>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+
 
 <img src="https://github-readme-stats.vercel.app/api/?username=Error404m&show_icons=true&theme=gotham" alt="github stats"/>
 
